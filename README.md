@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hello 👋🏻, Welcome to 🐺🍑🎮
 
+WolfPeach Games is Stephanie (She/Her) ([www.theverdigris.ca](https://www.theverdigris.ca)) and Tyrel (He/Him) ([tyrelh.github.io](https://tyrelh.github.io)).
+
+We are currently working on a 2D exploration game. You play as a raccoon who needs to explore the world and learn to communicate to all the other creatures in order to find your way! 🦝
+
+Follow our progress on Twitter [@wolfpeachgames](https://twitter.com/WolfPeachGames) 🐦, Instagram [@wolfpeachgames](https://www.instagram.com/wolfpeachgames/) 📷, and on Itch.io [wolfpeach.itch.io](https://wolfpeach.itch.io) 🎮
+
+💡 Fun Fact: The scientific name for a tomato 🍅 is *Lycopersicon esculentum* roughly translates to "edible wolf peach" 🐺🍑!
 <!--
 **wolfpeachgames/wolfpeachgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 -->
