@@ -1,6 +1,6 @@
 ## Hello 👋🏻, Welcome to 🐺🍑🎮
 
-WolfPeach Games is Stephanie (She/Her) ([www.theverdigris.ca](https://www.theverdigris.ca)) and Tyrel (He/Him) ([tyrelh.github.io](https://tyrelh.github.io)).
+WolfPeach Games is Stephanie (She/Her) ([www.theverdigris.ca](https://www.theverdigris.ca)) and Tyrel (He/Him) ([superflux.dev](https://superflux.dev)).
 
 We are currently working on a 2D exploration game. You play as a raccoon who needs to explore the world and learn to communicate to all the other creatures in order to find your way! 🦝
 
